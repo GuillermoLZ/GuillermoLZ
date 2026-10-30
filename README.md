@@ -9,7 +9,7 @@
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51934709307)
 
   <p align="center">
-    📍 Chiclayo, Perú &nbsp;|&nbsp; 💼 Disponible para proyectos Fullstack / Frontend / Backend
+    📍 Perú &nbsp;|&nbsp; 💼 Disponible para proyectos Fullstack / Frontend / Backend
   </p>
 
 </div>
